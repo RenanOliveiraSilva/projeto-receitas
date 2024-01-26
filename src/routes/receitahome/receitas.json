@@ -1,0 +1,17 @@
+{
+    "data":
+    [
+        {
+            "nome": "Arroz Branco",
+            "descricao": "Comida cotidiana brasileira",
+            "ingredientes": {
+                "1": "Arroz branco de qualquer tipo",
+                "2": "Oléo ou azeite",
+                "3": "Alho",
+                "4": "Água Mineral",
+                "5": "Sal a gosto"
+            },
+            "preparo": "Em uma panela adicione o oléo ou azeite e coleque esquentar, após quente adicione o alho e deixe gratinar. Em seguida adicione o arroz já lavado a panela e misture, adicione a água na mediada 2 por 1, ou seja, 2 copos de água para 1 arroz, por fim adicione sal a gosto. Aguarde a água ferver e tampe a panela somente após isso, após toda aguá secar seu arroz estará pronto. "
+        }
+    ]
+}

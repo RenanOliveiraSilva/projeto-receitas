@@ -55,6 +55,12 @@
 .card button:hover {
     color: rgb(236, 188, 129);
     cursor: pointer;
+}
+
+.card button:active {
+    color: rgb(236, 188, 129);
+    cursor: pointer;
+    font-size: 1rem;
  }
 
 .img-receita {
